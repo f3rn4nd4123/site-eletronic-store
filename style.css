@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+color: #ffffff;
+}
+
+.cabecalho {
+    color: #ffffff;
+    margin: center;
+}
+
+.cabecalho-lista-1 {
+    color: #ffffff;
+    margin-left: 40px; /* alinhamento à esquerda */
+    padding: 20px; ; /* espaçamento vertical */
+}
+
+.cabecalho-lista-2 {
+    color: #ffffff;
+    margin-left: 40px;
+    padding: 20px;
+}
+
+body {
+    background-color: #ffffff;
+}
